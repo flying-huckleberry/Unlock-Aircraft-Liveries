@@ -2,7 +2,7 @@ UNLOCK AIRCRAFT LIVERIES
 
 - Install as a PROGRAM MOD (not Saved Games)
 
-- REMOVE Faction restrictions for ALL stock skins in ALL modules
+- REMOVE Faction restrictions for ALL stock skins in ALL modules*
   - Works in MP servers that allow mods
   - Other players WILL see the livery you assign yourself
 
@@ -52,7 +52,7 @@ TF-51D		Bazar\Liveries\TF-51D
 UH-1H		Bazar\Liveries\uh-1h
 
 ---------------------------------------------
-QUIRK:
+QUIRK: *
 ---------------------------------------------
 F-5E-3 has a livery folder with cryllic text, which breaks
 OVGME's ZIP file extraction.
