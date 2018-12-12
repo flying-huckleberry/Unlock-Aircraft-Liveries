@@ -57,11 +57,9 @@ QUIRK:
 F-5E-3 has a livery folder with cryllic text, which breaks
 OVGME's ZIP file extraction.
 
-The folder has been renamed to 'FI HAvllv11', and all its assets
-have been copied to ensure the livery is always available.
-
-When playing as FINLAND in an F-5E, that livery will appear
-TWICE in the rearm/refuel livery selection dropdown.
+The folder and livery are ignored in this mod, so that when
+playing as anyone other than FINLAND in an F-5E, that livery
+will NOT appear in the rearm/refuel livery selection dropdown.
 
 ---------------------------------------------
 
