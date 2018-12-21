@@ -105,4 +105,3 @@ livery = {
 
 name = "Northeria - 32nd FG"
 
---

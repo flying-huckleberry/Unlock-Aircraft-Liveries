@@ -106,4 +106,3 @@ livery = {
 name = "IRIAF - 51st SQN (Umidiyeh AB)"
 --Skin made by 59th_Jack
 
---

@@ -104,4 +104,3 @@ livery = {
 
 name = "Bulgaria - 1 Fighter Squadron"
 
---

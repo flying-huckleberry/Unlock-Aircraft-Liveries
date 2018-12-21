@@ -117,7 +117,6 @@ livery = {
 name 		= "placeholder"
 name_ru		= "placeholder"
 
-
 -- custom_args =
 -- {
 -- [457] = DIFFUSE.DIFFUSE, -- EVU on

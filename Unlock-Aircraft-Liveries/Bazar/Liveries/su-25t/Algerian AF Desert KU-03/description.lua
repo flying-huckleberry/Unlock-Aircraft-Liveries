@@ -12,9 +12,10 @@ livery = {
 	{"gear-bay", 0, "SU39-PAINT8-DEF-01", true},
  	{"SU-39-PILON", 0, "SU39-PILON-PAINT-DZ3", true},
 	{"PILON_2_Su-39", 0, "SU39-PILON-2-PAINT-DZ3", true},
-	{"numbers", 0, "empty.TGA", true},
+	{"numbers", 0, "empty", true},
 	{"PylonsSu-25T1", 0, "Su-25TPylon", true},
 	{"pylon25lateral", 0, "Lateral25TPylon", true},
 	{"PTB-800-PAINT", 0, "PTB-800-PAINT-DZ3", true},
 }
 name = "Algerian AF Desert KU-03"
+

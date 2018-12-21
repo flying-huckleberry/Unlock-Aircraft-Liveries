@@ -19,4 +19,3 @@ livery = {
 
 name = "#3 JA-37 F21 Akktu Stakki"
 
---

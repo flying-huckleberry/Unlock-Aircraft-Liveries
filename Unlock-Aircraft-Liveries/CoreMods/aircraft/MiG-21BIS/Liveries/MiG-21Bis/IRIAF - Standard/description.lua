@@ -106,4 +106,3 @@ livery = {
 name = "IRIAF - Standard"
 --Skin made by 59th_Jack
 
---

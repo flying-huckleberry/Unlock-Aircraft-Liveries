@@ -49,5 +49,5 @@ livery = {
 	{"left door big letter 1", 0, "stick empty.dds", true},
 	{"left door big letter 2", 0, "stick empty.dds", true},
 	{"left door big letter 3", 0, "stick empty.dds", true},
-	{"left door big 3rd letter forward", 0, "stick empty.dds", true}	
+	{"left door big 3rd letter forward", 0, "stick empty.dds", true}
 }

@@ -109,4 +109,3 @@ livery = {
 
 name = "Bare Metal"
 
---

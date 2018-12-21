@@ -2,7 +2,7 @@ livery = {
 	{"ext1", 0 ,"M2KC_1T_GRK",false};
 	{"ext2", 0 ,"M2KC_2T_GRK",false};
 	{"pilot_M2KC_helmet", 0 ,"Pilot_M2KC_helmet_GRK",false};
-	{"pilot_M2KC", 0 ,"Pilot_M2KC_GRK",false};
+--	{"pilot_M2KC", 0 ,"Pilot_M2KC_GRK",false};
 	{"pilot_M2KC_patch", 0 ,"Pilot_M2KC_patch_GRK",false};
 
 	{"FUSE_NUMBER1_001", 0 ,"M2KC_1T_GRK",false};

@@ -21,4 +21,5 @@ livery = {
 }
 name = "Air Force (Standard)"
 name_ru = "ВВС России (Стандартная)"
+order     = -1
 

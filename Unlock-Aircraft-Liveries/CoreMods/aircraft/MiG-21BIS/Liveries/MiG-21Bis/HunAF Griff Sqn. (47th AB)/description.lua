@@ -102,4 +102,3 @@ livery = {
 name = "HunAF Griff Sqn.(47th - P�pa AB)"
 -- Skin Made by 59th_Jack
 
---

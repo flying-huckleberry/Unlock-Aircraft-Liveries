@@ -105,4 +105,3 @@ livery = {
 
 name = "VVS 185th GvIAP"
 
---

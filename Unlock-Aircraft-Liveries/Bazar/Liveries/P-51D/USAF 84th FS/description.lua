@@ -5,13 +5,13 @@ livery = {
 	{"P51D_WING_R", 0 ,"p51D_DIF_R_Wing_84 Sqdn",false};
 	{"P51D_FUZ_FRONT", 2 ,"p51D_SPEC_Fuz_Front_84 Sqdn",false};
 	{"P51D_FUZ_REAR", 2 ,"p51D_SPEC_Fuz_Rear_84 Sqdn",false};
-	{"P51D_WING_L", 2 ,"p51D_SPEC_L_Wing_IRON_ASS",true};
-	{"P51D_WING_R", 2 ,"p51D_SPEC_R_Wing_IRON_ASS",true};
+	{"P51D_WING_L", 2 ,"p51D_SPEC_L_Wing_84 Sqdn",true};
+	{"P51D_WING_R", 2 ,"p51D_SPEC_R_Wing_84 Sqdn",true};
 	
 	{"P51D_FUZ_FRONT", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Front_84Sqdn_RoughMet",false};
 	{"P51D_FUZ_REAR", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Rear_84Sqdn_RoughMet",false};
-	{"P51D_WING_L", ROUGHNESS_METALLIC ,"p51D_DIF_L_Wing_IRON_ASS_RoughMet",true};
-	{"P51D_WING_R", ROUGHNESS_METALLIC ,"p51D_DIF_R_Wing_IRON_ASS_RoughMet",true};
+	{"P51D_WING_L", ROUGHNESS_METALLIC ,"p51D_DIF_L_Wing_84 Sqdn_RoughMet",false};
+	{"P51D_WING_R", ROUGHNESS_METALLIC ,"p51D_DIF_R_Wing_84 Sqdn_RoughMet",false};
 	{"P51D_BORT_NUMBER_COCPIT_01", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Front_84Sqdn_RoughMet",false};
 	{"P51D_BORT_NUMBER_FRONT_10", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Front_84Sqdn_RoughMet",false};
 	{"P51D_BORT_NUMBER_FRONT_01", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Front_84Sqdn_RoughMet",false};

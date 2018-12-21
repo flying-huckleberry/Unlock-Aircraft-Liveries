@@ -93,4 +93,3 @@ livery = {
 
 name = "Poland - 1 DLMW"
 
---

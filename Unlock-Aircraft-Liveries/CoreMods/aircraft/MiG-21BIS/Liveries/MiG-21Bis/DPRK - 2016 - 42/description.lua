@@ -1,21 +1,12 @@
 name = "DPRK - 2016 Nr.42"
 
---[[
-countries = 
-{
-	"USA", "RUS", "FRA", "UKR", 
-	"SPN", "NETH", "TUR", "BEL", 
-	"GER", "NOR", "CAN", "DEN", 
-	"UK", "GRG", "ISR", "ABH", "RSO"
-}
-]]--
 
-custom_args = 
+custom_args =
 {
 	[1000] = 0.1, -- Change to 0 when using Set 1 Nose Numbers
 }
 
-livery = 
+livery =
 {
 
 -- Merged Textures
@@ -122,4 +113,3 @@ livery =
 	{"MIG21BIS_SER_TAIL_010000", DECAL ,"empty_ser",true};
 	--{"MIG21BIS_SER_TAIL_010000", DECAL ,"MiG21Bis_Ser_Tail",true};
 }
-

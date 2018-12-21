@@ -8,7 +8,7 @@ livery = {
 	{"P51D_WING_L", 2 ,"p51D_SPEC_L_Wing_haf",false};
 	{"P51D_WING_R", 2 ,"p51D_SPEC_R_Wing_haf",false};
 
-
+	
 	{"P51D_FUZ_FRONT", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Front_DESERT_RAT_RoughMet",true};
 	{"P51D_FUZ_REAR", ROUGHNESS_METALLIC ,"p51D_DIF_Fuz_Rear_DESERT_RAT_RoughMet",true};
 	{"P51D_WING_L", ROUGHNESS_METALLIC ,"p51D_DIF_L_Wing_RoughMet",true};
@@ -104,3 +104,4 @@ livery = {
 	{"pilot_P51_helmet_A", 0 ,"pilot_P51_helmet_A",true};
 }
 name = "Hellenic Airforce - Trainer (Fictional)"
+

@@ -105,4 +105,3 @@ livery = {
 
 name = "Iraq AF - 17th SQN (1)"
 
---

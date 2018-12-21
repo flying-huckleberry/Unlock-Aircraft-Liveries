@@ -239,3 +239,5 @@ livery = {
 	
 }
 name = "VFA-37"
+
+order     = -1

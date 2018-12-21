@@ -15,8 +15,8 @@ livery = {
 	{"gear-metal", 0, "SU39-PAINT7-DEF-01_gre", false},
 	{"gear-steel", 0, "SU39-PAINT7-DEF-01_gre", false},
 	{"gear-bay", 0, "SU39-PAINT8-DEF-01_gre", false},
-	{"pylon25lateral", 0, "Lateral25TPylon_gre.bmp", true},
-	{"RUS-PILOT", 0, "rus-pilot-2-gr.bmp", true},
-	{"RUS-HELMET", 0, "rus-helmet-gr.bmp", true},
+	{"pylon25lateral", 0, "Lateral25TPylon_gre", true},
+	{"RUS-PILOT", 0, "rus-pilot-2-gr", true},
+	{"RUS-HELMET", 0, "rus-helmet-gr", true},
 }
 name = "Hellenic Airforce (Fictional)"

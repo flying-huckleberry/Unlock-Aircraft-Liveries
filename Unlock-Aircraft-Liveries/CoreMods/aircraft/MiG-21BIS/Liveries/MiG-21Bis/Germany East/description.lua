@@ -105,4 +105,3 @@ livery = {
 
 name = "East Germany"
 
---

@@ -37,4 +37,3 @@ LNS_VIG_OUTER_PYLONS (Pilon04.psd)
 
 name = "#2 Bare Metal F7 Skaraborgs Flygflottilj"
 
---

@@ -253,4 +253,6 @@ livery = {
 
 	
 }
-name = "Blue Angels Jet Team"
+name 	  = "Blue Angels Jet Team"
+
+order     = 1000 -- to keep in end of the list

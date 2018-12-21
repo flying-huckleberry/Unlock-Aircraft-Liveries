@@ -105,4 +105,3 @@ livery = {
 
 name = "India - 15 Sqn War Games"
 
---

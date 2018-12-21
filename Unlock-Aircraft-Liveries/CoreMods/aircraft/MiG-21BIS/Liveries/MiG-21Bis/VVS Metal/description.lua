@@ -97,4 +97,3 @@ livery = {
 
 name = "VVS Metal"
 
---

@@ -47,4 +47,4 @@ livery = {
 
 name = "VMA-223D"
 
---
+

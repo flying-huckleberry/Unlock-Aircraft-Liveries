@@ -11,10 +11,10 @@ livery = {
 	{"FW-190_BORT_NUMBER", 0 ,"fw-190_numbers_JG301w",false};
 	{"FW-190_NUMBER_GB", 0 ,"empty",true};
 
-	{"FW-190_01", ROUGHNESS_METALLIC ,"FW-190_5JG301_01_RoughMet",false};
-	{"FW-190_02", ROUGHNESS_METALLIC ,"FW-190_5JG301_02_RoughMet",false};
-	{"FW-190_03", ROUGHNESS_METALLIC ,"FW-190_5JG301_03_RoughMet",false};
-	{"FW-190_04", ROUGHNESS_METALLIC ,"FW-190_5JG301_04_RoughMet",false};
+	{"FW-190_01", ROUGHNESS_METALLIC ,"FW-190_01_RoughMet",true};
+	{"FW-190_02", ROUGHNESS_METALLIC ,"FW-190_02_RoughMet",true};
+	{"FW-190_03", ROUGHNESS_METALLIC ,"FW-190_03_RoughMet",true};
+	{"FW-190_04", ROUGHNESS_METALLIC ,"FW-190_04_RoughMet",true};
 
 
 }

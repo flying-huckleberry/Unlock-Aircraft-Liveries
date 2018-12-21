@@ -8,4 +8,3 @@ livery = {
 
 name = "#1 Splinter F21 Norrbottens Flygflottilj"
 
---

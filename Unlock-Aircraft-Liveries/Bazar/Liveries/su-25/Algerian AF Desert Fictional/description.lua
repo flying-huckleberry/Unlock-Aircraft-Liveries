@@ -13,7 +13,7 @@ livery = {
 	
 	{"SU-25-PILON", 0, "SU39-PILON-PAINT-DZ3", true},
 	{"SU-25-PILON_2", 0, "SU39-PILON-2-PAINT-DZ3", true},
-	{"Su-25-numbers-1", 0, "empty.TGA", true},
+	{"Su-25-numbers-1", 0, "empty", true},
 	{"PTB-800-PAINT", 0, "PTB-800-PAINT-DZ3", true},
 }
 name = "Algerian AF Desert Fictional"

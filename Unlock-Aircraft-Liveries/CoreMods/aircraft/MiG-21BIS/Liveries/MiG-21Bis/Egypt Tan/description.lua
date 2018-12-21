@@ -105,4 +105,3 @@ livery = {
 
 name = "Egypt Tan"
 
---

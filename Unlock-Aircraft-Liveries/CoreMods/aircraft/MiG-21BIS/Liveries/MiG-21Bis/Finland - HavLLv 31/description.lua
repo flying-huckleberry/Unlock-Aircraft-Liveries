@@ -105,4 +105,3 @@ livery = {
 
 name = "Finland - HavLLv 31"
 
---

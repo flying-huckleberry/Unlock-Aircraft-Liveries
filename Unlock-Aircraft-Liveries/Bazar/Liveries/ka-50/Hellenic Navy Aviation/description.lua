@@ -18,7 +18,8 @@ livery = {
 	{"KA-50_BORT_NUMBERs", 0, "empty", true},
 	{"KA-50_Turkey_Numbers", 0, "empty",true},
 	{"KA-50_Signs",0,"empty",true},
-	{"KA-50_RUS-PILOT",0,"greek-pilot_ka-50.bmp.dds",true},
+	{"KA-50_RUS-PILOT",0,"greek-pilot_ka-50",true},
 	{"KA-50-RUS-HELMET",0,"grnavy_helmet_ka-50.dds",true},
 }
 name = "Hellenic Navy Aviation (Fictional)"
+

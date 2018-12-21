@@ -105,4 +105,3 @@ livery = {
 
 name = "Syria AF (1)"
 
---

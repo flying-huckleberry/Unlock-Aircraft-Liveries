@@ -121,11 +121,11 @@ livery = {
 
     {"mi_8_SMALL_BALKA_NUMBER_010", 0 ,"mi_8_tex_2",false};          --
 	{"mi_8_SMALL_BALKA_NUMBER_010", 2 ,"mi_8_tex_2_spec",true};     --
-	{"mi_8_SMALL_BALKA_NUMBER_010", DECAL ,"number reg.tga",false};           --
+	{"mi_8_SMALL_BALKA_NUMBER_010", DECAL ,"number reg",false};           --
 
     {"mi_8_SMALL_BALKA_NUMBER_100", 0 ,"mi_8_tex_2",false};          --
 	{"mi_8_SMALL_BALKA_NUMBER_100", 2 ,"mi_8_tex_2_spec",true};     --
-	{"mi_8_SMALL_BALKA_NUMBER_100", DECAL ,"number reg.tga",false};           --
+	{"mi_8_SMALL_BALKA_NUMBER_100", DECAL ,"number reg",false};           --
 
 }
 name = "Civil Vertolety RUSSIA"

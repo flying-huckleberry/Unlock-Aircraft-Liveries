@@ -128,7 +128,7 @@ livery = {
 	{"mi_8_SMALL_BALKA_NUMBER_100", DECAL ,"empty",true};           --
 
   	{"pilot_MI8_patch", 0 ,"pilot_MI8_384_patch",false};
-
+    
 }
 name = "Hellenic Army Aviation (Fictional)"
 
@@ -137,3 +137,4 @@ custom_args =
 {
 	[457] = 0.0, -- EVU on
 }
+
