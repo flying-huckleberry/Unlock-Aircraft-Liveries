@@ -1,0 +1,38 @@
+livery = {
+
+
+--Diffuse  -----------------------------------
+
+{"HB_F14_EXT_01", 0 ,"HB_F14_EXT_01",false};
+{"HB_F14_EXT_01", ROUGHNESS_METALLIC ,"HB_F14_EXT_01_RoughMet.dds",false};
+{"HB_F14_EXT_02", 0 ,"HB_F14_EXT_02",false};
+{"HB_F14_EXT_02", ROUGHNESS_METALLIC ,"HB_F14_EXT_02_RoughMet.dds",false};
+{"HB_F14_EXT_03", 0 ,"HB_F14_EXT_03",false};
+{"HB_F14_EXT_03", ROUGHNESS_METALLIC ,"HB_F14_EXT_03_RoughMet.dds",false};
+{"HB_F14_EXT_04", 0 ,"HB_F14_EXT_04",false};
+{"HB_F14_EXT_04", ROUGHNESS_METALLIC ,"HB_F14_EXT_04_RoughMet.dds",false};
+{"HB_F14_EXT_TAIL", 0 ,"HB_F14_EXT_TAIL",false};
+{"HB_F14_EXT_TAIL", ROUGHNESS_METALLIC ,"HB_F14_EXT_TAIL_RoughMet.dds",false};
+{"HB_F14_WING_LEFT_01", 0 ,"HB_F14_WING_LEFT",false};
+{"HB_F14_WING_LEFT_01", ROUGHNESS_METALLIC ,"HB_F14_WING_LEFT_RoughMet.dds",false};
+{"HB_F14_WING_RIGHT", 0 ,"HB_F14_WING_RIGHT",false};
+{"HB_F14_WING_RIGHT", ROUGHNESS_METALLIC ,"HB_F14_WING_RIGHT_RoughMet.dds",false};
+{"HB_F14_EXT_DROPTANKS", 0 ,"HB_F14_EXT_DROPTANK.dds",false};
+{"HB_F14_EXT_DROPTANKS", ROUGHNESS_METALLIC ,"HB_F-14_EXT_DROPTANK_RoughMet.dds",false};
+{"HB_F14_EXT_PHOENIXRAILS", 0 ,"HB_F14_EXT_PHOENIXPYLONS.dds",false};
+{"HB_F14_EXT_PHOENIXRAILS", ROUGHNESS_METALLIC ,"HB_F14_EXT_PHOENIXPYLONS_RoughMet.dds",false};
+{"HB_F14_EXT_PYLONS", 0 ,"HB_F14_EXT_PYLONS_01.dds",false};
+{"HB_F14_EXT_PYLONS", ROUGHNESS_METALLIC ,"HB_F14_EXT_PYLONS_01_RoughMet.dds",false};
+{"HB_F14_TCS", 0 ,"HB_F14_EXT_TCS.dds",false};
+{"HB_F14_TCS", ROUGHNESS_METALLIC ,"HB_F14_EXT_TCS_RoughMet",false};
+{"HB_F14_EXT_PILOT_HELMET", 0 ,"HB_F14_helmet.dds",false};
+{"HB_F14_EXT_PILOT_HELMET", ROUGHNESS_METALLIC ,"HB_F14_EXT_PILOT_HELMET_RoughMet.dds",false};
+{"HB_F14_EXT_RIO_HELMET", 0 ,"HB_F14_helmet.dds",false};
+{"HB_F14_EXT_RIO_HELMET", ROUGHNESS_METALLIC ,"HB_F14_EXT_PILOT_HELMET_RoughMet.dds",false};
+
+{"HB_F14_LOD1_3in1", 0 ,"HB_F14_LOD1_3in1",false};
+{"HB_F14_LOD1_3in1", ROUGHNESS_METALLIC ,"HB_F14_LOD1_3in1_RoughMet",false};
+
+}
+name = "Fictional Chrome Cat "
+
